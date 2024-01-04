@@ -12,7 +12,7 @@ import Right from './components/Right.vue';
 export default {
   components: {
     Left,
-    Right,
+    Right
   }
 }
 </script>
